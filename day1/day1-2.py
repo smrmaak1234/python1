@@ -31,8 +31,8 @@ a.pendown()
 
 
 for i in range(3):
-    a.right(120)
     a.forward(100)
+    a.right(120 
 
 
 
@@ -41,13 +41,9 @@ for i in range(3):
     a.right(120)
     a.forward(100)
 
-for i in range(3):
-    a.right(120)
-    a.forward(100)
+        for i in range(1):
+            a.left(60)
 
-for i in range(3):
-    a.right(120)
-    a.forward(100)
 
 
 
